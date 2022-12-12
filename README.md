@@ -1,8 +1,6 @@
 # 科技高「Python体験授業」
 ## 2022/12/14(水)
 
-# 科技高「Python体験授業」
-
 ---
 
 2022/12/14(水)
@@ -15,7 +13,7 @@
 
 1. 「ダウンロード」ボタンをクリック
 
-![1_down_load.png](%E7%A7%91%E6%8A%80%E9%AB%98%E3%80%8CPython%E4%BD%93%E9%A8%93%E6%8E%88%E6%A5%AD%E3%80%8D%204c7f3b46af5a4b21ab681ee02f7884a9/1_down_load.png)
+![1_down_load.png](fig_readme/1_down_load.png)
 
 1. 以下のリンクをクリックして「JupyterLab」を開く
 
