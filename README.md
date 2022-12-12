@@ -8,7 +8,7 @@
 **＜授業準備手順＞**
 
 1. 以下のリンクをクリック
-
+<a href="https://www.kaggle.com/competitions/kic-titanic/data" target="_blank" rel="noopener noreferrer"><b>Data tab</b></a>
 [hans-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing)
 
 2. 「ダウンロード」ボタンをクリック
