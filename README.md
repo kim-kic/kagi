@@ -3,6 +3,10 @@
 ---
 ## 授業準備手順
 
+0. 以下のURLにアクセス
+
+&emsp;　　[https://github.com/kim-kic/kagi-hs](https://github.com/kim-kic/kagi-hs)
+
 1. 以下のリンクをクリック
 
 &emsp;　**コントロール（CTRL）キー**を押しながらクリック → [hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)
