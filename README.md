@@ -9,6 +9,8 @@
 
 1. 以下のリンクをクリック
 
+<a href="https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?" target="_blank" rel="noopener">file</a>
+
 [hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?){target="_blank"}
 
 2. 「ダウンロード」ボタンをクリック
