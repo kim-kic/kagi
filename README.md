@@ -11,7 +11,7 @@
 
 [hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)　＊「コントロール（CTRL）キー」を押しながらクリック
 
-2. 「ダウンロード」ボタンをクリック
+2. 新しく開いたタブで「ダウンロード」ボタンをクリック
 
 ![](fig_readme/1_down_load.png)
 
@@ -19,7 +19,7 @@
 
 [JupyterLite](https://jupyter.org/try-jupyter/lab/?target=_blank)　＊「コントロール（CTRL）キー」を押しながらクリック
 
-4. 画面左上の赤い上矢印（↑）をクリック
+4. 新しく開いたタブで画面左上の赤い上矢印（↑）をクリック
 
 ![2_open_jupyterlab.png](fig_readme//2_open_jupyterlab.png)
 
