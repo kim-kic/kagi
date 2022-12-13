@@ -8,9 +8,10 @@
 **＜授業準備手順＞**
 
 1. 以下のリンクをクリック
-<a href="https://www.kaggle.com/competitions/kic-titanic/data" target="_blank" rel="noopener noreferrer"><b>Data tab</b></a>
 
-![](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing)
+<a href="https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?" target="_blank" rel="noopener">file</a>
+
+[hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?){target="_blank"}
 
 2. 「ダウンロード」ボタンをクリック
 
@@ -18,7 +19,7 @@
 
 3. 以下のリンクをクリックして「JupyterLab」を開く
 
-[JupyterLite](https://jupyter.org/try-jupyter/lab/)
+[JupyterLite](https://jupyter.org/try-jupyter/lab/?target=_blank){target="_blank"}
 
 4. 画面左上の赤い上矢印（↑）をクリック
 
