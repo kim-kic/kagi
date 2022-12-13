@@ -7,6 +7,8 @@
 
 &emsp;　**コントロール（CTRL）キー**を押しながらクリック → [hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)
 
+<a href="https://raw.githubusercontent.com/kim-kic/kagi-hs/main/hans-on.ipynb" download>hands-on.ipynb</a>
+
 2. 新しく開いたタブで「ダウンロード」ボタンをクリック
 
 ![](fig_readme/1_down_load.png)
