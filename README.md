@@ -5,7 +5,7 @@
 
 1. 以下のリンクをクリック
 
-  **コントロール（CTRL）キー**を押しながらクリック → [hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)
+&emsp　**コントロール（CTRL）キー**を押しながらクリック → [hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)
 
 2. 新しく開いたタブで「ダウンロード」ボタンをクリック
 
@@ -13,7 +13,7 @@
 
 3. 以下のリンクをクリック
 
-**コントロール（CTRL）キー**を押しながらクリック → [JupyterLite](https://jupyter.org/try-jupyter/lab/?target=_blank)
+&emsp　**コントロール（CTRL）キー**を押しながらクリック → [JupyterLite](https://jupyter.org/try-jupyter/lab/?target=_blank)
 
 4. 新しく開いたタブで画面左上の赤い上矢印（↑）をクリック
 
