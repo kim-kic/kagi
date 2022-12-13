@@ -7,17 +7,17 @@
 
 **＜授業準備手順＞**
 
-1. コントロール（CTRL）キーを押しながら、以下のリンクをクリック
+1. 以下のリンクをクリック
 
-[hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)＊「コントロールキー」を押しながら
+[hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)　＊「コントロールキー」を押しながらクリック
 
 2. 「ダウンロード」ボタンをクリック
 
 ![](fig_readme/1_down_load.png)
 
-3. コントロール（CTRL）キーを押しながら、以下のリンクをクリック
+3. 以下のリンクをクリック
 
-[JupyterLite](https://jupyter.org/try-jupyter/lab/?target=_blank)＊「コントロールキー」を押しながら
+[JupyterLite](https://jupyter.org/try-jupyter/lab/?target=_blank)　＊「コントロールキー」を押しながらクリック
 
 4. 画面左上の赤い上矢印（↑）をクリック
 
