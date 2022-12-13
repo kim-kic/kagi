@@ -5,7 +5,7 @@
 
 1. 以下のリンクをクリック
 
-**コントロール（CTRL）キー**を押しながらクリック → [hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)
+  **コントロール（CTRL）キー**を押しながらクリック → [hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)
 
 2. 新しく開いたタブで「ダウンロード」ボタンをクリック
 
