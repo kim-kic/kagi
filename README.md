@@ -9,7 +9,7 @@
 
 1. 以下のリンクをクリック
 
-[hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)　＊「コントロールキー」を押しながらクリック
+[hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)　＊「コントロール（CTRL）キー」を押しながらクリック
 
 2. 「ダウンロード」ボタンをクリック
 
@@ -17,7 +17,7 @@
 
 3. 以下のリンクをクリック
 
-[JupyterLite](https://jupyter.org/try-jupyter/lab/?target=_blank)　＊「コントロールキー」を押しながらクリック
+[JupyterLite](https://jupyter.org/try-jupyter/lab/?target=_blank)　＊「コントロール（CTRL）キー」を押しながらクリック
 
 4. 画面左上の赤い上矢印（↑）をクリック
 
