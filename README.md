@@ -1,11 +1,17 @@
 # 科技高「Python体験授業」
 2022/12/14(水)
 ---
-## ＜授業準備手順＞
+## 授業準備手順
+
+0. 以下のURLにアクセス
+
+&emsp;　　[https://github.com/kim-kic/kagi-hs](https://github.com/kim-kic/kagi-hs)
 
 1. 以下のリンクをクリック
 
 &emsp;　**コントロール（CTRL）キー**を押しながらクリック → [hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?)
+
+&emsp;　リンクの上で**右クリック**してファイルを保存 → <a href="https://raw.githubusercontent.com/kim-kic/kagi-hs/main/hans-on.ipynb" download="hands-on.ipynb">hands-on.ipynb</a>
 
 2. 新しく開いたタブで「ダウンロード」ボタンをクリック
 
