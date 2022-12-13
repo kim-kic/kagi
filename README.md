@@ -9,7 +9,7 @@
 
 1. 以下のリンクをクリック
 
-[hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing){target="_blank"}
+[hands-on.ipynb](https://drive.google.com/file/d/17mIMwyUPOlfgWyrw05oBggsZeOGLHm8m/view?usp=sharing?target=_blank){target="_blank"}
 
 2. 「ダウンロード」ボタンをクリック
 
