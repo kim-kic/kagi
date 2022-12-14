@@ -9,7 +9,7 @@
 
 1. 以下のリンクをクリック
 
-&emsp;　リンクの上で**右クリック**してフ「名前をつけてァイルを保存」を選択 → <a href="https://raw.githubusercontent.com/kim-kic/kagi-hs/main/hands-on.ipynb" download="hands-on.ipynb">hands-on.ipynb</a>
+&emsp;　リンクの上で**右クリック**して「名前をつけてァイルを保存」を選択 → <a href="https://raw.githubusercontent.com/kim-kic/kagi-hs/main/hands-on.ipynb" download="hands-on.ipynb">hands-on.ipynb</a>
 
 2. 新しく開いたタブで「ダウンロード」ボタンをクリック
 
