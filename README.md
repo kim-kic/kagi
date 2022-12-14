@@ -15,11 +15,11 @@
 
 ![2_open_jupyterlab.png](fig_readme//2_open_jupyterlab.png)
 
-4. 手順「2」でダウンロードしたファイル（hands-on.ipynb）をアップロード
+4. 手順「1」でダウンロードしたファイル（hands-on.ipynb）をアップロード
 
 ![3_upload_ipynb.png](fig_readme//3_upload_ipynb.png)
 
-5. 手順「5」でアップロードしたファイル（hands-on.ipynb）をクリック
+5. 手順「4」でアップロードしたファイル（hands-on.ipynb）をクリック
 
 ![4_open_ipynb.png](fig_readme//4_open_ipynb.png)
 
