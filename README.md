@@ -23,11 +23,11 @@
 
 ![2_open_jupyterlab.png](fig_readme//2_open_jupyterlab.png)
 
-5. 手順「2」でダウンロードしたファイル（hans-on.ipynb）をアップロード
+5. 手順「2」でダウンロードしたファイル（hands-on.ipynb）をアップロード
 
 ![3_upload_ipynb.png](fig_readme//3_upload_ipynb.png)
 
-6. 手順「5」でアップロードしたファイル（hans-on.ipynb）をクリック
+6. 手順「5」でアップロードしたファイル（hands-on.ipynb）をクリック
 
 ![4_open_ipynb.png](fig_readme//4_open_ipynb.png)
 
