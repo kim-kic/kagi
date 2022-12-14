@@ -3,11 +3,7 @@
 ---
 ## 授業準備手順
 
-0. 以下のURLにアクセス
-
-&emsp;　　[https://github.com/kim-kic/kagi-hs](https://github.com/kim-kic/kagi-hs)
-
-1. 以下のリンクをクリック
+1. 以下のファイルをダウンロード
 
 &emsp;　リンクの上で**右クリック**して「名前をつけてァイルを保存」を選択 → <a href="https://raw.githubusercontent.com/kim-kic/kagi-hs/main/hands-on.ipynb" download="hands-on.ipynb">hands-on.ipynb</a>
 
