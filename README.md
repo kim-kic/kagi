@@ -17,7 +17,7 @@
 
 3. 以下のリンクをクリック
 
-&emsp;　**コントロール（CTRL）キー**を押しながらクリック → [JupyterLite](https://jupyter.org/try-jupyter/lab/?target=_blank)
+&emsp;　**コントロール（CTRL）キー**を押しながらクリック → [JupyterLite](https://jupyter.org/try-jupyter/lab/)
 
 4. 新しく開いたタブで画面左上の赤い上矢印（↑）をクリック
 
